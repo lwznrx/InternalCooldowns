@@ -8,7 +8,9 @@ local spellToItem = {
 	
 	[71644] = 50348,	-- DFO héro
 	[71601] = 50353,	-- DFO
-
+	
+	[75474] = 54588,	-- Charred Twillight héro
+	[75465] = 54572,	-- Charred Twillight	
 
 	[64411] = 46017,					-- Val'anyr, Hammer of Ancient Kings
 	
